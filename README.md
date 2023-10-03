@@ -4,3 +4,6 @@ This simple app can save you many minutes trying to create nice articles for you
 1. Write messy unorganized information
 2. click on Generate button
 3. copy or send your new AI improved article
+
+--
+VB was my introduction to programming, its an actual fun way to indirectly learn cs
