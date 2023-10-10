@@ -1,15 +1,7 @@
-# TMH-Article-Maker
-AI-based article maker with webhook for discord
-This simple app can save you many minutes trying to create nice articles for your discord server
-1. Write messy unorganized information
-2. click on Generate button
-3. copy or send your new AI improved article
+I forgot to bake the fonts in the app lol, anyway this is useless you don't need it, it only makes the app title nicer to look at
 
+[Download magneto](https://www.wfonts.com/font/magneto) if you don't already have it.
+[Download bauhaus-93](https://www.wfonts.com/font/bauhaus-93) if you don't already have it.
 
-[Download for windows](https://github.com/h4shy/TMH-Article-Maker/releases/download/v1.0.1/TMH.Article.Maker.zip)
---
-Note: its a small app with zero error handling, it will keep prompting you for correct input if you made an error (kinda annoying)
-also don't modify the txt files manually or it might crash, will crash too if given invalid tokens
-
-
-VB was my introduction to programming, its an actual fun way to learn
+quick note: I'm not affiliated with wfonts.com or the manufacturer of the fonts, so these fonts and any other fonts are not included with the app licencing 
+it means (do your research before using them commercially). but you should be fine using them on your device
